@@ -3,9 +3,9 @@
   <entry>
     <title>PERSONAL HOMEPADGE OF Ding Huiwen</title>
     <url>/2023/12/19/hello-world/</url>
-    <content><![CDATA[<h2 id="研究方向"><a href="#研究方向" class="headerlink" title="研究方向"></a>研究方向</h2><p>1.ue引擎开发<br>2.数据挖掘<br>3.私有云服务器搭建</p>
-<h2 id="主要攻克课题内容"><a href="#主要攻克课题内容" class="headerlink" title="主要攻克课题内容"></a>主要攻克课题内容</h2><p>公共管廊智能巡检可视化管理平台</p>
-<h2 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h2><p>1.Windows云服务器上部署ASP.NET(碰撞分析)<br>2.C++创建和调用DLL动态链接库（最短路径规划）</p>
+    <content><![CDATA[<h2 id="研究方向"><a href="#研究方向" class="headerlink" title="研究方向"></a>研究方向</h2><p>1.ue引擎开发<br>2.时空数据挖掘分析<br>3.私有云服务器搭建</p>
+<h2 id="主要攻克课题内容"><a href="#主要攻克课题内容" class="headerlink" title="主要攻克课题内容"></a>主要攻克课题内容</h2><p>公共管廊智能巡检可视化管理平台<br>基于MGTWR模型的2015-2021中国空气质量时空变化分析</p>
+<h2 id="课外项目经验"><a href="#课外项目经验" class="headerlink" title="课外项目经验"></a>课外项目经验</h2><p>1.Windows云服务器上部署ASP.NET(碰撞分析)<br>2.C++创建和调用DLL动态链接库（最短路径规划）<br>3.Python爬取近六年1497个监测点月度数据<br>4.Matlab进行时空地理加权回归mgtwr模型分析数据，进行时空非平稳性检验<br>5.Arcgis将2015年-2021年中国366个城市的月度数据进行多因变量地理加权回归</p>
 ]]></content>
   </entry>
 </search>
